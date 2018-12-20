@@ -1,0 +1,3 @@
+olving conflicts in the CHANGELOG file, automatically take both changes.
+# https://git-scm.com/docs/gitattributes#gitattributes-union
+CHANGELOG merge=union 
